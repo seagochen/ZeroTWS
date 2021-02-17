@@ -1,0 +1,8 @@
+D:\Repositories\Repo\ZeroTWS\CSharpAPI\bin\Debug\netstandard2.0\CSharpAPI.deps.json
+D:\Repositories\Repo\ZeroTWS\CSharpAPI\bin\Debug\netstandard2.0\CSharpAPI.dll
+D:\Repositories\Repo\ZeroTWS\CSharpAPI\bin\Debug\netstandard2.0\CSharpAPI.pdb
+D:\Repositories\Repo\ZeroTWS\CSharpAPI\obj\Debug\netstandard2.0\CSharpAPI.AssemblyInfoInputs.cache
+D:\Repositories\Repo\ZeroTWS\CSharpAPI\obj\Debug\netstandard2.0\CSharpAPI.AssemblyInfo.cs
+D:\Repositories\Repo\ZeroTWS\CSharpAPI\obj\Debug\netstandard2.0\CSharpAPI.csproj.CoreCompileInputs.cache
+D:\Repositories\Repo\ZeroTWS\CSharpAPI\obj\Debug\netstandard2.0\CSharpAPI.dll
+D:\Repositories\Repo\ZeroTWS\CSharpAPI\obj\Debug\netstandard2.0\CSharpAPI.pdb
